@@ -8,6 +8,9 @@ target/
 .project
 .settings
 .springBeans
+mvnw
+mvnw.cmd
+
 
 ### IntelliJ IDEA ###
 .idea
@@ -22,3 +25,4 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+.mvn
